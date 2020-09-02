@@ -9,6 +9,7 @@
 5. Used Styled Components Making UI more attractive
 
 Deployed the Project on Github using Git Commands:
+
 1.git init
 
 2.git add .
